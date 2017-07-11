@@ -1,4 +1,6 @@
 {
-  "Id": ["com.rensoft.kurtarbizi",
-  "com.RentireGames.BestCirclePuzzle"]
+  [
+  "Id": "com.rensoft.kurtarbizi",
+  "Id" : "com.RentireGames.BestCirclePuzzle"
+  ]
 }
